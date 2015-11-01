@@ -8,11 +8,11 @@ Parcel has few dependencies, so the amount of setup required to start using it i
 
 ### Screenshots
 
-[!<img src="https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/Parcel%20Game%20Engine%20Screenshot%201.png" width="220" alt="rendering mesh with custom shaders" />](https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/Parcel%20Game%20Engine%20Screenshot%201.png)
+[<img src="https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/Parcel%20Game%20Engine%20Screenshot%201.png" width="220" alt="rendering mesh with custom shaders" />](https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/Parcel%20Game%20Engine%20Screenshot%201.png)
 
-[![custom shaders in use in a 3D space space](https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/TODO)](https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/Parcel%20Game%20Engine%20Screenshot%202.png)
+[![custom shaders in use for a 3D space space](https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/Parcel%20Game%20Engine%20Screenshot%202.png)](https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/Parcel%20Game%20Engine%20Screenshot%202.png)
 
-[![hardware accelerated 2D sprite and text rendering](z)](https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/Parcel%20Game%20Engine%20Screenshot%203.png)
+[![hardware accelerated 2D sprite and text rendering](Parcel%20Game%20Engine%20Screenshot%203.png)](https://github.com/DonaldWhyte/parcel-game-engine/raw/wiki/Parcel%20Game%20Engine%20Screenshot%203.png)
 
 ### Features
 
